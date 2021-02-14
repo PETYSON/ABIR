@@ -1,6 +1,6 @@
 # ABIR
-ABIR(Amazon bulk invite reviews) is an automatic invitation evaluation script developed for Amazon sellers. The main function of the script is to open orders in batches and automatically invite evaluation in batches.\n
-ABIR 是面向亚马逊卖家开发的自动邀请评价脚本，该脚本主要功能：批量打开订单、自动批量邀请评价。
+> ABIR(Amazon Bulk Invite Reviews) is an automatic invitation evaluation script developed of AST(Amazon Seler Tool) for Amazon sellers. The main function of the script is to open orders in batches and automatically invite evaluation in batches.
+> AST 是面向亚马逊卖家开发的自动邀请评价脚本，该脚本主要功能：批量打开订单、自动批量邀请评价。
 
 - 本项目只是ABIR的自动邀评部分，如需要ABIR的全功能chrome插件，请watch本项目，关注后续commit
 
